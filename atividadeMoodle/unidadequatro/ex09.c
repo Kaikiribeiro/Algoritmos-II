@@ -4,8 +4,7 @@ int contador = 0;
 
 void contar();
 
-int main()
-{
+int main() {
     contar();
     contar();
     contar();
@@ -13,8 +12,7 @@ int main()
     return 0;
 }
 
-void contar()
-{
+void contar() {
     contador++;
     printf("%d\n", contador);
 }

@@ -2,8 +2,7 @@
 
 void incrementar(int *x);
 
-int main()
-{
+int main() {
     int num = 5;
 
     printf("%d\n", num);
@@ -13,7 +12,6 @@ int main()
     return 0;
 }
 
-void incrementar(int *x)
-{
+void incrementar(int *x) {
     (*x)++;
 }

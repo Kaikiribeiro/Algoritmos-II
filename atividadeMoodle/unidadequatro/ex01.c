@@ -4,8 +4,7 @@ void testarEscopo();
 
 int valor = 100;
 
-int main()
-{
+int main() {
     testarEscopo();
 
     printf("%d\n", valor);
@@ -13,8 +12,7 @@ int main()
     return 0;
 }
 
-void testarEscopo()
-{
+void testarEscopo() {
     int valor = 20;
 
     printf("%d\n", valor);

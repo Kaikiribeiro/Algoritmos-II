@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 void valor(int x);
+
 void referencia(int *x);
 
-int main()
-{
+int main() {
     int n = 10;
 
     printf("Valor Original: %d\n", n);
@@ -18,14 +18,10 @@ int main()
     return 0;
 }
 
-void valor(int x)
-{
+void valor(int x) {
     x = x + 5;
-    
 }
 
-void referencia(int *x)
-{
+void referencia(int *x) {
     *x = *x + 5;
-    
 }
