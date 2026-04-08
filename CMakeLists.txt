@@ -33,5 +33,18 @@ add_executable(algoritmos2 main.c
         atividadeMoodle/unidadecinco/ex07.c
         atividadeMoodle/unidadecinco/ex08.c
         atividadeMoodle/unidadecinco/ex09.c
-        atividadeMoodle/unidadecinco/ex10.c)
+        atividadeMoodle/unidadecinco/ex10.c
+        atividadeMoodle/unidadeseis/ex01.c
+        atividadeMoodle/unidadeseis/ex02.c
+        atividadeMoodle/unidadeseis/ex03.c
+        atividadeMoodle/unidadeseis/ex04.c
+        atividadeMoodle/unidadeseis/ex05.c
+        atividadeMoodle/unidadeseis/ex06.c
+        atividadeMoodle/unidadeseis/ex07.c
+        atividadeMoodle/unidadeseis/ex08.c
+        atividadeMoodle/unidadeseis/ex09.c
+        atividadeMoodle/unidadeseis/ex10.c
+        atividadeMoodle/unidadeseis/ex11.c
+        atividadeMoodle/unidadeseis/ex12.c
+        atividadeMoodle/unidadeseis/ex13.c)
 
